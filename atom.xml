@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>有梦想的小狗</title>
+  
+  <subtitle>江南小狗</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-11-06T10:07:31.974Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>江南小狗</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2023/05/10/hello-world/"/>
+    <id>http://example.com/2023/05/10/hello-world/</id>
+    <published>2023-05-10T11:21:02.887Z</published>
+    <updated>2021-11-06T10:07:31.974Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>欧拉</title>
+    <link href="http://example.com/2021/11/06/ou-la/"/>
+    <id>http://example.com/2021/11/06/ou-la/</id>
+    <published>2021-11-06T10:17:28.000Z</published>
+    <updated>2021-11-06T10:17:28.194Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>排列组合</title>
+    <link href="http://example.com/2021/11/06/pai-lie-zu-he/"/>
+    <id>http://example.com/2021/11/06/pai-lie-zu-he/</id>
+    <published>2021-11-06T09:01:46.000Z</published>
+    <updated>2021-11-06T10:07:17.162Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;一些关于排列组合的公式&lt;/p&gt;
+&lt;h3 id=&quot;一般求排列-binom-n-m&quot;&gt;&lt;a href=&quot;#一般求排列-binom-n-m&quot; class=&quot;headerlink&quot; title=&quot;一般求排列 $\binom{n}{m}$&quot;&gt;&lt;/a&gt;一般求排列</summary>
+        
+      
+    
+    
+    
+    
+    <category term="math" scheme="http://example.com/tags/math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>扩展欧几里得算法</title>
+    <link href="http://example.com/2021/10/27/kuo-zhan-ou-ji-li-de-suan-fa/"/>
+    <id>http://example.com/2021/10/27/kuo-zhan-ou-ji-li-de-suan-fa/</id>
+    <published>2021-10-27T07:36:41.000Z</published>
+    <updated>2021-11-06T10:20:33.566Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;扩展欧几里得&quot;&gt;&lt;a href=&quot;#扩展欧几里得&quot; class=&quot;headerlink&quot; title=&quot;扩展欧几里得&quot;&gt;&lt;/a&gt;扩展欧几里得&lt;/h1&gt;&lt;h2 id=&quot;内容&quot;&gt;&lt;a href=&quot;#内容&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="exgcd" scheme="http://example.com/tags/exgcd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>math--primes</title>
+    <link href="http://example.com/2021/10/26/math-primes/"/>
+    <id>http://example.com/2021/10/26/math-primes/</id>
+    <published>2021-10-26T02:51:04.000Z</published>
+    <updated>2021-11-13T13:01:43.436Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;数论-质数（素数）与约数知识&quot;&gt;&lt;a href=&quot;#数论-质数（素数）与约数知识&quot; class=&quot;headerlink&quot; title=&quot;数论 - 质数（素数）与约数知识&quot;&gt;&lt;/a&gt;数论 - 质数（素数）与约数知识&lt;/h1&gt;&lt;h2 id=&quot;素数相关&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="math" scheme="http://example.com/tags/math/"/>
+    
+    <category term="learn" scheme="http://example.com/tags/learn/"/>
+    
+    <category term="algorithm" scheme="http://example.com/tags/algorithm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2021/10/23/test/"/>
+    <id>http://example.com/2021/10/23/test/</id>
+    <published>2021-10-23T06:31:47.000Z</published>
+    <updated>2021-11-06T10:07:33.282Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;pre class=&quot;line-numbers language-c&quot; data-language=&quot;c&quot;&gt;&lt;code class=&quot;language-c&quot;&gt;&lt;span class=&quot;token macro property&quot;&gt;&lt;span class=&quot;token</summary>
+        
+      
+    
+    
+    
+    
+    <category term="-&quot;A&quot; -&quot;B&quot;" scheme="http://example.com/tags/A-B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>回忆录</title>
+    <link href="http://example.com/2021/10/22/hui-yi-lu/"/>
+    <id>http://example.com/2021/10/22/hui-yi-lu/</id>
+    <published>2021-10-22T07:07:13.000Z</published>
+    <updated>2021-11-06T10:07:30.987Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;时光机&quot;&gt;&lt;a href=&quot;#时光机&quot; class=&quot;headerlink&quot; title=&quot;时光机&quot;&gt;&lt;/a&gt;时光机&lt;/h2&gt;&lt;p&gt;乱写了点东西，不要嫌弃，勉强看看还是ok的，嫌弃也没用！！！&lt;/p&gt;
+&lt;h3 id=&quot;意外的相遇&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="生日快乐" scheme="http://example.com/tags/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/"/>
+    
+  </entry>
+  
+</feed>
